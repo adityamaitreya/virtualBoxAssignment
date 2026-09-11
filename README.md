@@ -52,3 +52,9 @@ Open http://localhost:3000
 - No password strength requirements
 - No rate limiting
 - Hardcoded JWT secret
+
+- ##Created By:
+- Aditya Maitreya
+- 20cse2324@rkgit.edu.in
+- 8279680962
+- Raj Kumar Goel Institute of Technology
